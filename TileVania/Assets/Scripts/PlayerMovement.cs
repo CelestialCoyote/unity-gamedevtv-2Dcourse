@@ -61,10 +61,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (!isAlive) { return; }
 
-        if (!playerFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
-        {
-            return;
-        }
+        if (!playerFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground"))) { return; }
 
         if (value.isPressed)
         {
