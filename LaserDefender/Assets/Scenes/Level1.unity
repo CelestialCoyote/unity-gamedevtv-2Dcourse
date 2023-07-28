@@ -352,7 +352,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30ae3ef210d874f529da194199b9b989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentWave: {fileID: 11400000, guid: 6fac5e37ad84d4d04a7468c8b69f7e66, type: 2}
+  waveConfigs:
+  - {fileID: 11400000, guid: 6fac5e37ad84d4d04a7468c8b69f7e66, type: 2}
+  - {fileID: 11400000, guid: 10f5fc1e1af9e4aa681eb0a1422c09ca, type: 2}
+  timeBetweenWaves: 0
 --- !u!4 &2017888170
 Transform:
   m_ObjectHideFlags: 0
