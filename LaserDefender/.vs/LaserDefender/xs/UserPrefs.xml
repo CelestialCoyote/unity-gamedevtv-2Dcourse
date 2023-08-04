@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{2739083D-BD6A-EF71-7844-B438E0DFC5F5}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Health.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shooter.cs">
     <Files>
       <File FileName="Assets/Scripts/DamageDealer.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/Player.cs" Line="53" Column="6" />
       <File FileName="Assets/Scripts/WaveConfigSO.cs" />
       <File FileName="Assets/Scripts/Pathfinder.cs" />
       <File FileName="Assets/Scripts/EneySpawner.cs" />
       <File FileName="Assets/Scripts/Health.cs" Line="27" Column="33" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="5" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +15,7 @@
           <Node name="LaserDefender" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="DamageDealer.cs" selected="True" />
+                <Node name="Shooter.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -24,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da68068a-4a09-49df-b625-32bf444e85ae" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="88b1dff5-685e-4740-825b-cbf5b91e13ed" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
