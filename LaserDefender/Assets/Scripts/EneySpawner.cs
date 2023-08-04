@@ -33,10 +33,10 @@ public class EneySpawner : MonoBehaviour
                 for (int i = 0; i < currentWave.GetEnemyCount(); i++)
                 {
                     Instantiate(
-                    currentWave.GetEnemyPrefab(0),
-                    currentWave.GetStartingWayPoint().position,
-                    Quaternion.identity,
-                    transform
+                        currentWave.GetEnemyPrefab(0),
+                        currentWave.GetStartingWayPoint().position,
+                        Quaternion.Euler(0, 0, 180),
+                        transform
                     );
 
                     yield return new WaitForSeconds(currentWave.GetRandomSpawnTime());
