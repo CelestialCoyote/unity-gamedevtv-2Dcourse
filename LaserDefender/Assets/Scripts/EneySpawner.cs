@@ -33,7 +33,7 @@ public class EneySpawner : MonoBehaviour
                 for (int i = 0; i < currentWave.GetEnemyCount(); i++)
                 {
                     Instantiate(
-                        currentWave.GetEnemyPrefab(0),
+                        currentWave.GetEnemyPrefab(i),
                         currentWave.GetStartingWayPoint().position,
                         Quaternion.Euler(0, 0, 180),
                         transform
