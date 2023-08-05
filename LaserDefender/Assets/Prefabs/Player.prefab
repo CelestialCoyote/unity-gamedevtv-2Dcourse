@@ -150,7 +150,10 @@ MonoBehaviour:
   projectilePrefab: {fileID: 691821134451474316, guid: 18db067c670f64ab4ae235125180b8b2, type: 3}
   projectileSpeed: 10
   projectileLifetime: 5
-  firingRate: 0.2
+  baseFiringRate: 0.2
+  firingRateVariance: 0
+  minimumFiringRate: 0.1
+  useAI: 0
   isFiring: 0
 --- !u!1 &7477284450468137798
 GameObject:
@@ -225,7 +228,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 6975b8585b81347d19ca0ee48976760f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 77de7d12e08a540fea8f4f9a0c12a0f2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
