@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{2739083D-BD6A-EF71-7844-B438E0DFC5F5}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpriteScroller.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioPlayer.cs">
     <Files>
       <File FileName="Assets/Scripts/Health.cs" Line="43" Column="1" />
       <File FileName="Assets/Scripts/DamageDealer.cs" Line="8" Column="38" />
@@ -9,7 +9,8 @@
       <File FileName="Assets/Scripts/EneySpawner.cs" />
       <File FileName="Assets/Scripts/Shooter.cs" />
       <File FileName="Assets/Scripts/CameraShake.cs" Line="13" Column="1" />
-      <File FileName="Assets/Scripts/SpriteScroller.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/SpriteScroller.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/AudioPlayer.cs" Line="8" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +18,7 @@
           <Node name="LaserDefender" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="SpriteScroller.cs" selected="True" />
+                <Node name="AudioPlayer.cs" selected="True" />
               </Node>
             </Node>
           </Node>
