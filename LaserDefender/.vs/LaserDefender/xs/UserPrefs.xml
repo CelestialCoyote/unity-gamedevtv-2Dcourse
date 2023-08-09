@@ -12,7 +12,7 @@
       <File FileName="Assets/Scripts/SpriteScroller.cs" />
       <File FileName="Assets/Scripts/AudioPlayer.cs" />
       <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="19" Column="1" />
-      <File FileName="Assets/Scripts/UIDisplay.cs" Line="4" Column="2" />
+      <File FileName="Assets/Scripts/UIDisplay.cs" Line="33" Column="68" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
