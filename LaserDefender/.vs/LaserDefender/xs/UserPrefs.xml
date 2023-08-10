@@ -1,27 +1,26 @@
 ﻿<Properties StartupConfiguration="{2739083D-BD6A-EF71-7844-B438E0DFC5F5}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIDisplay.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelManager.cs">
     <Files>
       <File FileName="Assets/Scripts/Health.cs" Line="60" Column="44" />
       <File FileName="Assets/Scripts/DamageDealer.cs" />
       <File FileName="Assets/Scripts/Player.cs" />
       <File FileName="Assets/Scripts/WaveConfigSO.cs" />
       <File FileName="Assets/Scripts/Pathfinder.cs" />
-      <File FileName="Assets/Scripts/EneySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EneySpawner.cs" />
       <File FileName="Assets/Scripts/Shooter.cs" />
       <File FileName="Assets/Scripts/CameraShake.cs" />
       <File FileName="Assets/Scripts/SpriteScroller.cs" />
       <File FileName="Assets/Scripts/AudioPlayer.cs" />
-      <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/ScoreKeeper.cs" />
       <File FileName="Assets/Scripts/UIDisplay.cs" Line="33" Column="68" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LaserDefender" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="UIDisplay.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -30,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="99ab2e2c-78da-4723-b34f-c9fc7242db8e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a8346c0d-cf3a-4ca0-bf88-d0295c986f01" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
