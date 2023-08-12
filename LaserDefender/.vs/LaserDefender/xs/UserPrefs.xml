@@ -10,11 +10,11 @@
       <File FileName="Assets/Scripts/Shooter.cs" />
       <File FileName="Assets/Scripts/CameraShake.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/SpriteScroller.cs" />
-      <File FileName="Assets/Scripts/AudioPlayer.cs" Line="36" Column="6" />
-      <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/AudioPlayer.cs" />
+      <File FileName="Assets/Scripts/ScoreKeeper.cs" />
       <File FileName="Assets/Scripts/UIDisplay.cs" />
       <File FileName="Assets/Scripts/LevelManager.cs" Line="26" Column="6" />
-      <File FileName="Assets/Scripts/UIGameOver.cs" Line="21" Column="67" />
+      <File FileName="Assets/Scripts/UIGameOver.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -32,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f52fbaf-738b-4597-86d7-6eef35644972" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c813b878-4320-4206-bf72-a14dd2a5a7e2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
